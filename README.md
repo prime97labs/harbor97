@@ -167,6 +167,15 @@ Public documentation focuses on operational philosophy and system behavior rathe
 
 ---
 
+## Operational Example
+
+Example of operational defensive overlay notifications generated during live monitoring conditions.
+
+<img width="420" alt="14919" src="https://github.com/user-attachments/assets/49726e53-60c8-42e6-b2a7-76144ec5cfdc" />
+
+
+---
+
 ## License / Disclaimer
 
 HARBOR97 is a research and operational monitoring project.
