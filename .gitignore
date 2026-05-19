@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# HARBOR97 sensitive files
+
+logs/
+ledger/
+archive/
+data/
+backups/
+
+*.jsonl
+*.gz
+*.sqlite
+*.db
+
+.env
+.env.*
+
+config/secrets*
+config/*secret*
+
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+
+*.log
