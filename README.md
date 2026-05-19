@@ -173,7 +173,9 @@ HARBOR97 is a research and operational monitoring project.
 
 This repository does not provide investment advice or portfolio management services.
 
-All examples are provided for research, monitoring, and system design discussion purposes only.
+The public materials in this repository are provided for research, monitoring, and system design discussion purposes only.
+
+Commercial and institutional deployment may require separate agreements.
 
 All rights reserved unless explicitly stated otherwise.
 
