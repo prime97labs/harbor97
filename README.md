@@ -1,7 +1,10 @@
 # HARBOR97
 
-Market Stress Defense Overlay for Structural Risk Monitoring
+> Market Stress Defense Overlay for Structural Risk Monitoring
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74ca218a-2668-4310-b074-822ae65da4da" width="680">
+</p>
 ---
 
 ## Overview
@@ -174,7 +177,7 @@ All examples are provided for research, monitoring, and system design discussion
 
 -------------------------------------------------------------------------------------------------------------------
 
-# HARBOR97
+# HARBOR97 (Japanese ver.)
 
 市場構造ストレス監視用 Defensive Overlay
 
