@@ -175,6 +175,8 @@ This repository does not provide investment advice or portfolio management servi
 
 All examples are provided for research, monitoring, and system design discussion purposes only.
 
+All rights reserved unless explicitly stated otherwise.
+
 -------------------------------------------------------------------------------------------------------------------
 
 # HARBOR97 (Japanese ver.)
