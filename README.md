@@ -45,7 +45,7 @@ The system provides:
 
 - market state classification
 - defensive action recommendations
-- recommended defensive positioning
+- defensive posture guidance
 - operational monitoring
 - audit-ready state logs
 
@@ -53,9 +53,9 @@ Typical operational outputs include:
 
 - Watch / Caution states
 - Risk-Off states
-- Defensive / Freeze states
+- Defensive posture states
 - positioning reduction recommendations
-- state recovery notifications
+- state normalization notifications
 
 The system prioritizes actionable alerts over continuous notifications.
 
