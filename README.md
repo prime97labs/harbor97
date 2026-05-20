@@ -101,9 +101,9 @@ The system is intentionally designed to minimize operator fatigue.
 
 Notifications are primarily issued when:
 
-- state transitions occur
-- defensive posture changes
-- recovery conditions are confirmed
+- operationally relevant changes occur
+- defensive posture updates are required
+- normalization conditions are observed
 
 ### Auditability
 
