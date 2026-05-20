@@ -177,6 +177,12 @@ Example of operational defensive overlay notifications generated during live mon
 
 ---
 
+## Examples
+
+Illustrative operational abstractions are available in the `/examples` directory.
+
+---
+
 ## License / Disclaimer
 
 HARBOR97 is a research and operational monitoring project.
