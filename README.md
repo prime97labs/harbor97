@@ -150,6 +150,7 @@ Future development may include:
 - cross-asset monitoring
 - operational replay visualization
 - institutional deployment layers
+- broader defensive infrastructure applications
 
 ---
 
