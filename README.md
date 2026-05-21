@@ -195,6 +195,15 @@ Commercial and institutional deployment may require separate agreements.
 
 All rights reserved unless explicitly stated otherwise.
 
+---
+
+## Additional Documents
+
+- [PHILOSOPHY.md](./PHILOSOPHY.md)
+- [CHANGELOG.md](./CHANGELOG.md)
+- [Operational Examples](./examples/sample_operational_states.md)
+- [profile.md](./profile.md)
+
 -------------------------------------------------------------------------------------------------------------------
 
 # HARBOR97 (Japanese ver.)
@@ -269,3 +278,12 @@ HARBOR97 は短期予測よりも、以下を重視しています。
 本リポジトリは研究・監視用途であり、投資助言を目的とするものではありません。
 
 内部ロジック、閾値、重み付け、signal construction の詳細は公開対象外です。
+
+---
+
+## Additional Documents
+
+- [PHILOSOPHY.md](./PHILOSOPHY.md)
+- [CHANGELOG.md](./CHANGELOG.md)
+- [Operational Examples](./examples/sample_operational_states.md)
+- [profile.md](./profile.md)
