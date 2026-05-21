@@ -36,6 +36,10 @@ The objective is not prediction.
 The objective is operational survivability.
 
 ---
+<p align="center">
+  <img width="680" alt="Overlay Positioning" src="https://github.com/user-attachments/assets/b4098242-0413-4cde-9ee8-809784c21c86" />
+</p>
+
 
 ## What HARBOR97 Does
 
