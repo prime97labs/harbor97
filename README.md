@@ -79,6 +79,8 @@ HARBOR97 does NOT:
 
 Final execution authority always remains with the operator or institution.
 
+Designed as a loosely coupled external overlay operating independently from existing alpha or execution infrastructure.
+
 HARBOR97 is intended as a defensive telemetry and advisory overlay.
 
 ---
