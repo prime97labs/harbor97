@@ -16,3 +16,24 @@ Initial operational prototype release.
 - Replay validation workflow
 - Institutional-oriented architecture documentation
 - Initial public architecture diagram
+
+---
+
+## v1.1
+
+Operational refinement release.
+
+### Added
+
+- Enhanced defensive response framework
+- Improved event lifecycle handling
+- Stress classification enhancements
+- Infrastructure event awareness
+- Expanded replay and forensic capabilities
+
+### Improved
+
+- Operator-facing alert workflow
+- Defensive action consistency
+- Configuration flexibility
+- Operational observability
