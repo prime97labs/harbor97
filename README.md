@@ -203,6 +203,14 @@ All rights reserved unless explicitly stated otherwise.
 
 ---
 
+## Case Studies
+
+Selected examples of observed market events and HARBOR97 responses.
+
+- [May 21, 2026 – Short-Duration Market Deterioration](examples/case-study-2026-05-21.md)
+
+----
+
 ## Additional Documents
 
 - [PHILOSOPHY.md](./PHILOSOPHY.md)
