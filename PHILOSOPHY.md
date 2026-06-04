@@ -1,6 +1,56 @@
 # HARBOR97 Philosophy
 
 ---
+## The Blanket Cover Principle
+*A simple way to understand HARBOR97.*
+
+Imagine you have a favorite blanket.
+
+You chose it carefully. You know how it behaves. You are comfortable with it.
+
+Now imagine someone comes to you and says:
+
+"Throw away your blanket and buy mine instead."
+
+Most people would not do that.
+
+The blanket is already doing its job.
+
+What people actually want is something different. They want to keep using the blanket they trust while reducing the risk of damage.
+
+That is where a blanket cover becomes useful.
+
+The blanket remains exactly the same. Its comfort remains the same. Its behavior remains the same.
+
+The only difference is that the cover absorbs dirt, wear, and damage before they reach the blanket itself.
+
+HARBOR97 is designed with a similar philosophy.
+
+Your alpha engine remains unchanged. Your portfolio construction remains unchanged. Your execution infrastructure remains unchanged.
+
+HARBOR97 does not attempt to replace them.
+
+Instead, it operates as an external protective layer that monitors operational stress and abnormal conditions around the system.
+
+**The goal is not to create alpha.**
+
+**The goal is to help protect existing alpha.**
+
+Perhaps the most important part is that a blanket cover is not tied to a single blanket.
+
+As long as the size fits, the same cover can be used with many different blankets.
+
+HARBOR97 follows the same principle.
+
+It is designed as a loosely coupled overlay that can operate alongside many different investment processes, strategies, and execution environments.
+
+**The blanket remains yours.**
+
+**The investment process remains yours.**
+
+**HARBOR97 is simply the cover.**
+
+---
 
 ## Why HARBOR97 Exists
 
