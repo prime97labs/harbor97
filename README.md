@@ -85,6 +85,12 @@ HARBOR97 is intended as a defensive telemetry and advisory overlay.
 
 ---
 
+## Design Philosophy
+
+For a non-technical explanation of the design philosophy behind HARBOR97, see [PHILOSOPHY.md](PHILOSOPHY.md).
+
+---
+
 ## Operational Design Principles
 
 ### Stateful Monitoring
