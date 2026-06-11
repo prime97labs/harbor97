@@ -9,7 +9,9 @@
 
 ## Overview
 
-HARBOR97 is a defensive market stress overlay designed to monitor structural instability conditions that may degrade the risk characteristics of existing trading strategies.
+HARBOR97 is a defensive market stress overlay designed to operate alongside existing investment processes.
+
+Rather than replacing alpha engines, portfolio construction frameworks, or execution infrastructure, HARBOR97 functions as an external protective layer that helps organizations maintain operational survivability during abnormal market conditions.
 
 The system does not attempt to predict market direction, generate alpha, optimize entries/exits, or replace existing execution infrastructure.
 
@@ -21,7 +23,7 @@ Its primary role is to:
 - reduce operator fatigue through selective alerting
 - maintain operational auditability
 
-HARBOR97 is designed as an external defensive overlay that can operate independently from existing alpha engines and portfolio logic.
+HARBOR97 is designed as a loosely coupled external overlay that can operate independently from existing alpha engines, portfolio logic, and execution environments.
 
 ---
 
@@ -31,7 +33,9 @@ HARBOR97 is built around the idea that many operational failures occur not becau
 
 The system focuses on structural market stress, abnormal market behavior, and operational risk conditions.
 
-The objective is not prediction.
+The goal is not to create alpha.
+
+The goal is to help protect existing alpha.
 
 The objective is operational survivability.
 
@@ -87,7 +91,7 @@ HARBOR97 is intended as a defensive telemetry and advisory overlay.
 
 ## Design Philosophy
 
-For a non-technical explanation of the design philosophy behind HARBOR97, see [PHILOSOPHY.md](PHILOSOPHY.md).
+For a non-technical explanation of the design philosophy behind HARBOR97, including the Blanket Cover Principle, see [PHILOSOPHY.md](PHILOSOPHY.md).
 
 ---
 
